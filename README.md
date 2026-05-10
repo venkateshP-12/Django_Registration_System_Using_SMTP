@@ -114,7 +114,7 @@ http://127.0.0.1:8000/
 
 ## Author
 **Shavala Sundar Raju**
-- GitHub: [@shavalasundarraju](https://github.com/shavalasundarraju)
+- GitHub: [@venkateshP-12](https://github.com/venkateshP-12)
 - Email: shavalasundarraju@gmail.com
 - LinkedIn: [Shavala Sundar Raju](https://linkedin.com/in/shavalasundarraju)
 
